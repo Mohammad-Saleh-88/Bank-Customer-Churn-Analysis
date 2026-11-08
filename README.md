@@ -7,7 +7,7 @@ The project includes a prepared Excel report and a dashboard that summarizes key
 
 ## Dashboard Preview
 
-![Bank Customer Churn Dashboard](Dashboard-Preview%20.png)
+![Bank Customer Churn Dashboard](https://raw.githubusercontent.com/Mohammad-Saleh-88/Bank-Customer-Churn-Analysis/main/Dashboard-Preview.png)
 
 ## Dashboard Highlights
 The Excel dashboard presents 9 charts and key performance indicators, including:
